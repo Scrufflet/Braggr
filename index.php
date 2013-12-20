@@ -45,7 +45,7 @@
 			<div style="width: 800px;">
 				<span style="display: inline-block;">
 					<div><br>
-						&copy; 2013 - Scrufflet - Copying 'the' or 'from the' source is strictly unlawful.
+						&copy; 2013 - Scrufflet - Copying 'the' or 'from the' source is strictly unlawful. asdfasdf
 						<br><br>
 					</div>
 			    </span>
